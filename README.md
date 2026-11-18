@@ -1,2 +1,3 @@
-# agency-webdev-studio-1405
-آژانس توسعه وب و فرانت‌اند فارسی
+# آژانس توسعه وب
+
+https://beig-rules.github.io/agency-webdev-studio-1405/
